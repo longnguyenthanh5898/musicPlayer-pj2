@@ -20,52 +20,52 @@ const app = {
 
     songs: [
         {
-          name: "Boi vi em thay nho anh",
+          name: "Bởi vì yêu",
           singer: "Juky San",
           path: "./assets/music/bai1.mp3",
-          image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
+          image: "https://i.scdn.co/image/ab67616d0000b2732e4caaa908f3499465fdb45c"
         },
         {
-          name: "De vuong",
-          singer: "Dinh Dung",
+          name: "Đế Vương",
+          singer: "Đình Dũng",
           path: "./assets/music/bai2.mp3",
           image:
-            "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
+            "https://i.ytimg.com/vi/dD0-npKN6hs/maxresdefault.jpg"
         },
         {
-          name: "Sai gon dau long qua",
-          singer: "My Duyen",
+          name: "Sài Gòn đau lòng quá",
+          singer: "Mỹ Duyên",
           path:
             "./assets/music/bai3.mp3",
-          image: "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
+          image: "https://i.ytimg.com/vi/BdPk9ipvczM/maxresdefault.jpg"
         },
         {
-          name: "Thuc giac",
+          name: "Thức giấc",
           singer: "DA Lab",
           path: "./assets/music/bai4.mp3",
           image:
-            "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
+            "https://i.ytimg.com/vi/mjS1biSPKZw/maxresdefault.jpg"
         },
         {
-          name: "Muon roi ma sao con",
-          singer: "Tung nui",
+          name: "Muộn rồi mà sao còn",
+          singer: "Sơn Tùng M-TP",
           path: "./assets/music/bai5.mp3",
           image:
-            "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
+            "https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg"
         },
         {
-          name: "Tren tinh ban, duoi tinh yeu",
+          name: "Trên tình bạn, dưới tình yêu",
           singer: "Min X 16 Typh",
           path: "./assets/music/bai6.mp3",
           image:
             "https://i.scdn.co/image/ab67616d0000b273c7a101d54f57aed7b650b74c"
         },
         {
-          name: "Phai chang em da yeu",
+          name: "Phải chăng em đã yêu",
           singer: "Juki San",
           path: "./assets/music/bai7.mp3",
           image:
-            "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
+            "https://i.ytimg.com/vi/O81_4VAson4/maxresdefault.jpg"
         }
     ],
     render: function(){
